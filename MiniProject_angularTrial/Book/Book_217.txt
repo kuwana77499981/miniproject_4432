@@ -1,0 +1,15 @@
+Project OpenISBN 
+----------------------------------------------------------------------------------- 
+Title: Gower: The Autobiography 
+Cover:  http://www.openisbn.com/cover/0002184133_72.jpg 
+Author: David Gower,Martin Johnson, 
+Publisher: HarperCollinsWillow 
+Pages: 272 
+ISBN10: 0002184133 
+ISBN13: 9780002184137 
+URL: http://www.openisbn.com/isbn/9780002184137/ 
+List Price: 0.00 
+Price comparison: 
+URL: http://www.openisbn.com/price/9780002184137/ 
+----------------------------------------------------------------------------------- 
+http://www.openisbn.com

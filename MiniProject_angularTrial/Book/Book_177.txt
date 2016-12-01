@@ -1,0 +1,15 @@
+Project OpenISBN 
+----------------------------------------------------------------------------------- 
+Title: Paddington Bear 
+Cover:  http://www.openisbn.com/cover/0001983008_72.jpg 
+Author: Michael Bond, 
+Publisher: Harper Collins 
+Pages: 32 
+ISBN10: 0001983008 
+ISBN13: 9780001983007 
+URL: http://www.openisbn.com/isbn/9780001983007/ 
+List Price: 0.00 
+Price comparison: 
+URL: http://www.openisbn.com/price/9780001983007/ 
+----------------------------------------------------------------------------------- 
+http://www.openisbn.com

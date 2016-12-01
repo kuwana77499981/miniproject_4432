@@ -1,0 +1,15 @@
+Project OpenISBN 
+----------------------------------------------------------------------------------- 
+Title: The Information 
+Cover:  http://www.openisbn.com/cover/0001049364_72.jpg 
+Author:  
+Publisher:  
+Pages:  
+ISBN10: 0001049364 
+ISBN13: 9780001049369 
+URL: http://www.openisbn.com/isbn/9780001049369/ 
+List Price: 0.00 
+Price comparison: 
+URL: http://www.openisbn.com/price/9780001049369/ 
+----------------------------------------------------------------------------------- 
+http://www.openisbn.com

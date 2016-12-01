@@ -1,0 +1,218 @@
+-- MySQL Workbench Forward Engineering
+
+SET @OLD_UNIQUE_CHECKS=@@UNIQUE_CHECKS, UNIQUE_CHECKS=0;
+SET @OLD_FOREIGN_KEY_CHECKS=@@FOREIGN_KEY_CHECKS, FOREIGN_KEY_CHECKS=0;
+SET @OLD_SQL_MODE=@@SQL_MODE, SQL_MODE='TRADITIONAL,ALLOW_INVALID_DATES';
+
+-- -----------------------------------------------------
+-- Schema mydb
+-- -----------------------------------------------------
+-- -----------------------------------------------------
+-- Schema mini4432
+-- -----------------------------------------------------
+
+-- -----------------------------------------------------
+-- Schema mini4432
+-- -----------------------------------------------------
+CREATE SCHEMA IF NOT EXISTS `mini4432` DEFAULT CHARACTER SET latin1 ;
+USE `mini4432` ;
+
+-- -----------------------------------------------------
+-- Table `mini4432`.`Book`
+-- -----------------------------------------------------
+CREATE TABLE IF NOT EXISTS `mini4432`.`Book` (
+  `BookID` INT(11) NOT NULL AUTO_INCREMENT,
+  `Title` VARCHAR(200) NOT NULL,
+  `Author` VARCHAR(100) NOT NULL,
+  `Publisher` VARCHAR(100) NOT NULL,
+  `Cover` VARCHAR(50) NOT NULL,
+  `ISBN` VARCHAR(20) NOT NULL,
+  `CallNumber` VARCHAR(20) NULL,
+  `CourseBook` TINYINT(1) NOT NULL,
+  PRIMARY KEY (`BookID`))
+ENGINE = InnoDB
+DEFAULT CHARACTER SET = latin1;
+
+
+-- -----------------------------------------------------
+-- Table `mini4432`.`Comment`
+-- -----------------------------------------------------
+CREATE TABLE IF NOT EXISTS `mini4432`.`Comment` (
+  `CommentID` INT(11) NOT NULL AUTO_INCREMENT,
+  `Content` VARCHAR(45) NOT NULL,
+  `Grade` INT(11) NOT NULL,
+  `Date` DATE NOT NULL,
+  `Time` TIME NOT NULL,
+  PRIMARY KEY (`CommentID`))
+ENGINE = InnoDB
+DEFAULT CHARACTER SET = latin1;
+
+
+-- -----------------------------------------------------
+-- Table `mini4432`.`UserLib`
+-- -----------------------------------------------------
+CREATE TABLE IF NOT EXISTS `mini4432`.`UserLib` (
+  `NetID` CHAR(9) NOT NULL,
+  `FirstName` VARCHAR(30) NOT NULL,
+  `LastName` VARCHAR(30) NOT NULL,
+  `Password` VARCHAR(30) NOT NULL,
+  PRIMARY KEY (`NetID`))
+ENGINE = InnoDB
+DEFAULT CHARACTER SET = latin1;
+
+
+-- -----------------------------------------------------
+-- Table `mini4432`.`BookComment`
+-- -----------------------------------------------------
+CREATE TABLE IF NOT EXISTS `mini4432`.`BookComment` (
+  `CommentID` INT(11) NOT NULL,
+  `BookID` INT(11) NOT NULL,
+  `NetID` VARCHAR(9) NOT NULL,
+  INDEX `CommentID_BC` (`CommentID` ASC),
+  INDEX `BookID_BC` (`BookID` ASC),
+  INDEX `NetID_BC` (`NetID` ASC),
+  PRIMARY KEY (`CommentID`),
+  UNIQUE INDEX `CommentID_UNIQUE` (`CommentID` ASC),
+  CONSTRAINT `BookID_BC`
+    FOREIGN KEY (`BookID`)
+    REFERENCES `mini4432`.`Book` (`BookID`)
+    ON DELETE NO ACTION
+    ON UPDATE NO ACTION,
+  CONSTRAINT `CommentID_BC`
+    FOREIGN KEY (`CommentID`)
+    REFERENCES `mini4432`.`Comment` (`CommentID`)
+    ON DELETE NO ACTION
+    ON UPDATE NO ACTION,
+  CONSTRAINT `NetID_BC`
+    FOREIGN KEY (`NetID`)
+    REFERENCES `mini4432`.`UserLib` (`NetID`)
+    ON DELETE NO ACTION
+    ON UPDATE NO ACTION)
+ENGINE = InnoDB
+DEFAULT CHARACTER SET = latin1;
+
+
+-- -----------------------------------------------------
+-- Table `mini4432`.`BookShelf`
+-- -----------------------------------------------------
+CREATE TABLE IF NOT EXISTS `mini4432`.`BookShelf` (
+  `BookShelfID` INT(11) NOT NULL AUTO_INCREMENT,
+  `NetID` VARCHAR(9) NOT NULL,
+  `BookID` INT(11) NOT NULL,
+  PRIMARY KEY (`BookShelfID`),
+  INDEX `NetID_BS` (`NetID` ASC),
+  INDEX `BookID_BS` (`BookID` ASC),
+  UNIQUE INDEX `BookID_UNIQUE` (`BookID` ASC),
+  CONSTRAINT `BookID_BS`
+    FOREIGN KEY (`BookID`)
+    REFERENCES `mini4432`.`Book` (`BookID`)
+    ON DELETE NO ACTION
+    ON UPDATE NO ACTION,
+  CONSTRAINT `NetID_BS`
+    FOREIGN KEY (`NetID`)
+    REFERENCES `mini4432`.`UserLib` (`NetID`)
+    ON DELETE NO ACTION
+    ON UPDATE NO ACTION)
+ENGINE = InnoDB
+DEFAULT CHARACTER SET = latin1;
+
+
+-- -----------------------------------------------------
+-- Table `mini4432`.`Tag`
+-- -----------------------------------------------------
+CREATE TABLE IF NOT EXISTS `mini4432`.`Tag` (
+  `TagID` INT(11) NOT NULL AUTO_INCREMENT,
+  `TagName` VARCHAR(20) NOT NULL,
+  PRIMARY KEY (`TagID`))
+ENGINE = InnoDB
+DEFAULT CHARACTER SET = latin1;
+
+
+-- -----------------------------------------------------
+-- Table `mini4432`.`BookTag`
+-- -----------------------------------------------------
+CREATE TABLE IF NOT EXISTS `mini4432`.`BookTag` (
+  `BookID` INT(11) NOT NULL,
+  `TagID` INT(11) NOT NULL,
+  `Qty` INT(11) NOT NULL,
+  PRIMARY KEY (`BookID`, `TagID`),
+  INDEX `TagID_BT` (`TagID` ASC),
+  INDEX `BookID_BT` (`BookID` ASC),
+  CONSTRAINT `BookID_BT`
+    FOREIGN KEY (`BookID`)
+    REFERENCES `mini4432`.`Book` (`BookID`),
+  CONSTRAINT `TagID_BT`
+    FOREIGN KEY (`TagID`)
+    REFERENCES `mini4432`.`Tag` (`TagID`))
+ENGINE = InnoDB
+DEFAULT CHARACTER SET = latin1;
+
+
+-- -----------------------------------------------------
+-- Table `mini4432`.`ChatRoom`
+-- -----------------------------------------------------
+CREATE TABLE IF NOT EXISTS `mini4432`.`ChatRoom` (
+  `ChatRoomID` INT(11) NOT NULL AUTO_INCREMENT,
+  `CreatTime` DATE NOT NULL,
+  PRIMARY KEY (`ChatRoomID`))
+ENGINE = InnoDB
+DEFAULT CHARACTER SET = latin1;
+
+
+-- -----------------------------------------------------
+-- Table `mini4432`.`UserBook`
+-- -----------------------------------------------------
+CREATE TABLE IF NOT EXISTS `mini4432`.`UserBook` (
+  `IssueID` INT(11) NOT NULL AUTO_INCREMENT,
+  `BookID` INT(11) NOT NULL,
+  `NetID` VARCHAR(9) NOT NULL,
+  `Issue Date` DATE NOT NULL,
+  `Due Date` DATE NOT NULL,
+  `Return Date` DATE NULL DEFAULT NULL,
+  `Fine` DOUBLE NOT NULL DEFAULT '0',
+  PRIMARY KEY (`IssueID`),
+  INDEX `BookID_UB` (`BookID` ASC),
+  INDEX `NetId_UB` (`NetID` ASC),
+  CONSTRAINT `BookID_UB`
+    FOREIGN KEY (`BookID`)
+    REFERENCES `mini4432`.`Book` (`BookID`)
+    ON DELETE NO ACTION
+    ON UPDATE NO ACTION,
+  CONSTRAINT `NetId_UB`
+    FOREIGN KEY (`NetID`)
+    REFERENCES `mini4432`.`UserLib` (`NetID`)
+    ON DELETE NO ACTION
+    ON UPDATE NO ACTION)
+ENGINE = InnoDB
+DEFAULT CHARACTER SET = latin1;
+
+
+-- -----------------------------------------------------
+-- Table `mini4432`.`UserChat`
+-- -----------------------------------------------------
+CREATE TABLE IF NOT EXISTS `mini4432`.`UserChat` (
+  `ChatID` INT(11) NOT NULL AUTO_INCREMENT,
+  `NetID` VARCHAR(9) NOT NULL,
+  `ChatRoomID` INT(11) NOT NULL,
+  `ChatText` TEXT NOT NULL,
+  `ChatTime` DATE NOT NULL,
+  PRIMARY KEY (`ChatID`),
+  INDEX `NetID_idx` (`NetID` ASC),
+  INDEX `ChatID_idx` (`ChatRoomID` ASC),
+  CONSTRAINT `ChatRoomID_UC`
+    FOREIGN KEY (`ChatRoomID`)
+    REFERENCES `mini4432`.`ChatRoom` (`ChatRoomID`)
+    ON DELETE NO ACTION
+    ON UPDATE NO ACTION,
+  CONSTRAINT `NetID_UC`
+    FOREIGN KEY (`NetID`)
+    REFERENCES `mini4432`.`UserLib` (`NetID`)
+    ON DELETE NO ACTION
+    ON UPDATE NO ACTION)
+ENGINE = InnoDB
+DEFAULT CHARACTER SET = latin1;
+
+
+SET SQL_MODE=@OLD_SQL_MODE;
+SET FOREIGN_KEY_CHECKS=@OLD_FOREIGN_KEY_CHECKS;
+SET UNIQUE_CHECKS=@OLD_UNIQUE_CHECKS;

@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html><!--
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Library Map</title>
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+	<link rel="stylesheet" type="text/css" href="./css/mapstylesheet.css">
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+	<<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
+	<script src="./js/floor.js"></script>
+	<script src="./js/svg-pan-zoom.js"></script>
+	<script src="./js/hammer.min.js"></script>
+	<link rel="stylesheet" href="http://www.w3schools.com/lib/w3.css">
+</head>-->
+<body id="page_map_home">
+	<!--<nav class="w3-sidenav w3-collapse w3-theme-light floor_left" style="width:200px" id="mySidenav">
+		<a onclick="w3_close()" class="w3-closenav w3-hide-large">Close &times;</a> 
+		<a id="tab_book_detail">Book detail</a> 
+		<a id="tab_map">Map</a> 
+		<a id="tab_save">Save Book Shelf</a> 
+		<a id="tab_load">Load Book Shelf</a> 
+		<a id="tap_logout">Logout</a> 
+	</nav>-->
+	<div id="contents" class="w3-container w3-main" ><!--container-fluid">-->
+	<!--<header class="w3-container w3-theme">
+		<h2><span class="w3-opennav w3-xlarge w3-hide-large" onclick="w3_open()">&#9776;</span>
+		Your Library </h2>
+	</header>-->
+
+		<div class="w3-row">
+			<div id="floor_contents_center_book_detail" class="w3-container w3-half floor_center" style="display:none; overflow:hidden">
+				<div id="book_detail">
+					<table class='table'>
+						<tbody>
+						</tbody>
+					</table>
+				</div>
+				<div id="book_tag">
+
+
+				</div>
+				<div id="book_comment">
+					<button onclick='loadComment()' class='tagButton'>Add Comment</button>
+				</div>
+			</div>
+			<div id="floor_contents_center" class="w3-container w3-half floor_center" style="overflow:hidden">
+				<div class="floor_sections w3-display-container">
+					<section id="floor_section"></section>
+					<section class='detail'>
+						<p class="floor_number_detail detail"></p>
+						<p class="floor_parts_detail detail"></p>
+						<p class="floor_check_detail detail"></p>
+					</section>
+				</div>
+				<div style='text-align:center'>
+					<span class='dot' alt='0'></span>
+					<span class='dot' alt='1'></span>
+					<span class='dot' alt='2'></span>
+					<span class='dot' alt='3'></span>
+					<span class='dot' alt='4'></span>
+					<span class='dot' alt='5'></span>
+				</div>
+				<div id="snackbar" class='w3-container'></div>
+			</div> 
+			<!-- map div close-->
+			<div id="floor_contents_right" class="w3-container w3-half">
+				<!--<div id='color_chooser' class='color_chooser'>
+					
+				</div>-->
+				<div id="criteria">
+					<h1>BookShelf  <a onclick="save_to_book_shelf()"><span class="glyphicon glyphicon-floppy-disk"></span></a>
+					<a onclick="load_book_shelf()"><span class="glyphicon glyphicon-download-alt"></span></a></h1>
+					<div>
+						<table class='table-hover'>
+							<tbody>
+								<!--
+								<td><button type='button' class='btn btn-default btn-block'></button></td>
+								<td>123</td>
+								<td><span class='close'>X</span></td>-->
+								<!-- return book shelf and criteria selected here-->
+																	
+							</tbody>
+						</table>
+					</div>
+				</div>
+				<div id="c_selector" class='w3-container'>
+					<div class='w3-half'>
+					<button type='button' class='btn btn-default btn-block' value='title' id='title_btn'>Title</button>
+					<button type='button' class='btn btn-default btn-block' value='author'>Author</button>				
+					<button type='button' class='btn btn-default btn-block' value='tag'>Tag</button>		
+					<button type='button' class='btn btn-default btn-block' value='subj'>Subject</button>						
+					<button type='button' class='btn btn-default btn-block' value='pop'>Popularity</button>
+					</div>
+					<div class='w3-half'>
+					<button type='button' class='btn btn-default btn-block' value='rank'>Rank</button>
+					<button type='button' class='btn btn-default btn-block' value='related_bs'>Related BookShelf</button>
+					<button type='button' class='btn btn-default btn-block' value='related_bb'>Related BookRecord</button>													
+					<button type='button' class='btn btn-default btn-block' value='' disabled>Unlock: Level Up to 5</button>			
+					<button type='button' class='btn btn-default btn-block' value='' disabled>????</button>
+					</div>
+
+				</div>
+				<div id="c_searcher">
+					<input type="text" id="myInput" onkeyup="c_search()" placeholder="Search for above A+" title="Type in your key">
+					<div>
+						<table id="c_searcher_table">
+							<tbody>
+							<!-- return search result here-->
+							</tbody>
+						</table>
+					</div>
+				</div>
+			</div>
+		
+		</div>
+	</div>
+</body>
+</html>

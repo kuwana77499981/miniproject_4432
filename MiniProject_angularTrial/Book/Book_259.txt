@@ -1,0 +1,15 @@
+Project OpenISBN 
+----------------------------------------------------------------------------------- 
+Title: K 
+Cover:  http://www.openisbn.com/cover/0002256037_72.jpg 
+Author: Daniel Easterman, 
+Publisher: HarperCollins 
+Pages: 368 
+ISBN10: 0002256037 
+ISBN13: 9780002256032 
+URL: http://www.openisbn.com/isbn/9780002256032/ 
+List Price: 0.00 
+Price comparison: 
+URL: http://www.openisbn.com/price/9780002256032/ 
+----------------------------------------------------------------------------------- 
+http://www.openisbn.com

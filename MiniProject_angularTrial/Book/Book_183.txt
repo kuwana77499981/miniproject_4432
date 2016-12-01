@@ -1,0 +1,15 @@
+Project OpenISBN 
+----------------------------------------------------------------------------------- 
+Title: Dinosaurs After Dark 
+Cover:  http://www.openisbn.com/cover/000198375X_72.jpg 
+Author: Jonathan Emmett,Curtis Jobling, 
+Publisher: Collins 
+Pages: 32 
+ISBN10: 000198375X 
+ISBN13: 9780001983755 
+URL: http://www.openisbn.com/isbn/9780001983755/ 
+List Price: 0.00 
+Price comparison: 
+URL: http://www.openisbn.com/price/9780001983755/ 
+----------------------------------------------------------------------------------- 
+http://www.openisbn.com

@@ -1,0 +1,15 @@
+Project OpenISBN 
+----------------------------------------------------------------------------------- 
+Title: Post-Mortem 
+Cover:  http://www.openisbn.com/cover/000104897X_72.jpg 
+Author: Patricia Cornwell, 
+Publisher: Harper Collins Audio 
+Pages: 0 
+ISBN10: 000104897X 
+ISBN13: 9780001048973 
+URL: http://www.openisbn.com/isbn/9780001048973/ 
+List Price: 0.00 
+Price comparison: 
+URL: http://www.openisbn.com/price/9780001048973/ 
+----------------------------------------------------------------------------------- 
+http://www.openisbn.com

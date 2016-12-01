@@ -1,0 +1,15 @@
+Project OpenISBN 
+----------------------------------------------------------------------------------- 
+Title: Revista musical catalana 348 - cat 
+Cover:  http://www.openisbn.com/cover/0000003484_72.jpg 
+Author: Fundacio Orfeo Catala, 
+Publisher: Sapiens publicacions 
+Pages:  
+ISBN10: 0000003484 
+ISBN13: 9780000003485 
+URL: http://www.openisbn.com/isbn/9780000003485/ 
+List Price: 0.00 
+Price comparison: 
+URL: http://www.openisbn.com/price/9780000003485/ 
+----------------------------------------------------------------------------------- 
+http://www.openisbn.com

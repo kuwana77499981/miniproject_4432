@@ -1,0 +1,15 @@
+Project OpenISBN 
+----------------------------------------------------------------------------------- 
+Title: Call 
+Cover:  http://www.openisbn.com/cover/000200674X_72.jpg 
+Author: Oriah Mountain Dreamer, 
+Publisher: Harper 
+Pages: 0 
+ISBN10: 000200674X 
+ISBN13: 9780002006743 
+URL: http://www.openisbn.com/isbn/9780002006743/ 
+List Price: 0.00 
+Price comparison: 
+URL: http://www.openisbn.com/price/9780002006743/ 
+----------------------------------------------------------------------------------- 
+http://www.openisbn.com

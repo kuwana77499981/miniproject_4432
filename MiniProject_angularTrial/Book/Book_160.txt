@@ -1,0 +1,15 @@
+Project OpenISBN 
+----------------------------------------------------------------------------------- 
+Title: Best Nest (Beginner Books) 
+Cover:  http://www.openisbn.com/cover/0001713140_72.jpg 
+Author: P D Eastman, 
+Publisher: Harpercollins 
+Pages: 64 
+ISBN10: 0001713140 
+ISBN13: 9780001713147 
+URL: http://www.openisbn.com/isbn/9780001713147/ 
+List Price: 0.00 
+Price comparison: 
+URL: http://www.openisbn.com/price/9780001713147/ 
+----------------------------------------------------------------------------------- 
+http://www.openisbn.com

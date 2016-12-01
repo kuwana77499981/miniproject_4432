@@ -1,0 +1,15 @@
+Project OpenISBN 
+----------------------------------------------------------------------------------- 
+Title: Serenade 
+Cover:  http://www.openisbn.com/cover/0001126180_72.jpg 
+Author:  
+Publisher: Schott Music 
+Pages:  
+ISBN10: 0001126180 
+ISBN13: 9780001126183 
+URL: http://www.openisbn.com/isbn/9780001126183/ 
+List Price: 0.00 
+Price comparison: 
+URL: http://www.openisbn.com/price/9780001126183/ 
+----------------------------------------------------------------------------------- 
+http://www.openisbn.com

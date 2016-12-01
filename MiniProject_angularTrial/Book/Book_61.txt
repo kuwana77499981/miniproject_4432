@@ -1,0 +1,15 @@
+Project OpenISBN 
+----------------------------------------------------------------------------------- 
+Title: My Life As A Medium (Audiobook) 
+Cover:  http://www.openisbn.com/cover/0001052233_72.jpg 
+Author: Betty Shine, 
+Publisher: Harper Collins Audiobooks 
+Pages: 0 
+ISBN10: 0001052233 
+ISBN13: 9780001052239 
+URL: http://www.openisbn.com/isbn/9780001052239/ 
+List Price: 0.00 
+Price comparison: 
+URL: http://www.openisbn.com/price/9780001052239/ 
+----------------------------------------------------------------------------------- 
+http://www.openisbn.com

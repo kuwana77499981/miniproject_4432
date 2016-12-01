@@ -1,0 +1,15 @@
+Project OpenISBN 
+----------------------------------------------------------------------------------- 
+Title: Mr Plod Colouring Book 
+Cover:  http://www.openisbn.com/cover/000136104X_72.jpg 
+Author: Enid Blyton, 
+Publisher: Harpercollins 
+Pages: 24 
+ISBN10: 000136104X 
+ISBN13: 9780001361041 
+URL: http://www.openisbn.com/isbn/9780001361041/ 
+List Price: 12.95 
+Price comparison: 
+URL: http://www.openisbn.com/price/9780001361041/ 
+----------------------------------------------------------------------------------- 
+http://www.openisbn.com

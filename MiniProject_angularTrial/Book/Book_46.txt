@@ -1,0 +1,15 @@
+Project OpenISBN 
+----------------------------------------------------------------------------------- 
+Title: Christmas Carol 
+Cover:  http://www.openisbn.com/cover/0001046861_72.jpg 
+Author: Charles Dickens, 
+Publisher: Harper Collins Audio 
+Pages: 0 
+ISBN10: 0001046861 
+ISBN13: 9780001046863 
+URL: http://www.openisbn.com/isbn/9780001046863/ 
+List Price: 0.00 
+Price comparison: 
+URL: http://www.openisbn.com/price/9780001046863/ 
+----------------------------------------------------------------------------------- 
+http://www.openisbn.com

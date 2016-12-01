@@ -1,0 +1,15 @@
+Project OpenISBN 
+----------------------------------------------------------------------------------- 
+Title: Teddy Bears' Picnic 
+Cover:  http://www.openisbn.com/cover/0001360655_72.jpg 
+Author: Mark Burgess, 
+Publisher: Picture Lions 
+Pages: 24 
+ISBN10: 0001360655 
+ISBN13: 9780001360655 
+URL: http://www.openisbn.com/isbn/9780001360655/ 
+List Price: 0.00 
+Price comparison: 
+URL: http://www.openisbn.com/price/9780001360655/ 
+----------------------------------------------------------------------------------- 
+http://www.openisbn.com

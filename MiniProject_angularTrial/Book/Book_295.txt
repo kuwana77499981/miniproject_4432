@@ -1,0 +1,15 @@
+Project OpenISBN 
+----------------------------------------------------------------------------------- 
+Title: Head Count 
+Cover:  http://www.openisbn.com/cover/000232640X_72.jpg 
+Author: Ingrid Noll, 
+Publisher: Collins Crime 
+Pages: 224 
+ISBN10: 000232640X 
+ISBN13: 9780002326407 
+URL: http://www.openisbn.com/isbn/9780002326407/ 
+List Price: 157.27 
+Price comparison: 
+URL: http://www.openisbn.com/price/9780002326407/ 
+----------------------------------------------------------------------------------- 
+http://www.openisbn.com

@@ -1,0 +1,15 @@
+Project OpenISBN 
+----------------------------------------------------------------------------------- 
+Title: Test Your Cat 
+Cover:  http://www.openisbn.com/cover/0002555026_72.jpg 
+Author: E M Bard, 
+Publisher: Harpercollins 
+Pages: 128 
+ISBN10: 0002555026 
+ISBN13: 9780002555029 
+URL: http://www.openisbn.com/isbn/9780002555029/ 
+List Price: 0.00 
+Price comparison: 
+URL: http://www.openisbn.com/price/9780002555029/ 
+----------------------------------------------------------------------------------- 
+http://www.openisbn.com

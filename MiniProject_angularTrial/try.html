@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.4.8/angular.min.js"></script>
+	<script src="//ajax.googleapis.com/ajax/libs/angularjs/1.4.8/angular-route.js"></script>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Library Map</title>
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+	<link rel="stylesheet" type="text/css" href="./css/mapstylesheet.css">
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+	<script src="./js/floor.js"></script>
+	<script src="./js/svg-pan-zoom.js"></script>
+	<script src="./js/hammer.min.js"></script>
+	<link rel="stylesheet" href="http://www.w3schools.com/lib/w3.css">
+	<!--<script src="./js/commentoperation.js"></script>-->
+</head>
+<body ng-app="myApp">
+
+<p><a href="#/">Main</a></p>
+
+<h1>How to merge my page without into your angular without editing anything</h1>
+<h2>Tell Me what source you want to get from my page such that I can give you</h2>
+<a href="#mappage">My page</a>
+
+
+
+<div ng-view></div>
+
+<script>
+var app = angular.module("myApp", ["ngRoute"]);
+app.config(function($routeProvider) {
+    $routeProvider
+    .when("/", {
+        template : "????"
+    })
+    .when("/mappage", {
+        templateUrl : "./mappage.html",
+		controller: "mapCtrl"
+    });
+});
+app.controller('mapCtrl', function($scope){
+	polygonEvent();
+	dotEvent();
+	checkEvent();
+	c_selector_btn_event();
+	c_close_btn_event();
+	c_locat_btn_Event();
+	c_search_add_to_criteria_event();
+	floor_left_nav_event();
+	loadMap(1);
+	load_book_shelf();
+	reload_add_to_criteria_with_locat()
+	$('.dot').eq(1).addClass('active');
+	book_tag_event();
+});
+</script>
+
+</body>
+</html>

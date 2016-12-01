@@ -1,0 +1,15 @@
+Project OpenISBN 
+----------------------------------------------------------------------------------- 
+Title: The Wailing Wind 
+Cover:  http://www.openisbn.com/cover/0002005255_72.jpg 
+Author: Tony Hillerman, 
+Publisher: Harper Collins 
+Pages: 232 
+ISBN10: 0002005255 
+ISBN13: 9780002005258 
+URL: http://www.openisbn.com/isbn/9780002005258/ 
+List Price: 0.00 
+Price comparison: 
+URL: http://www.openisbn.com/price/9780002005258/ 
+----------------------------------------------------------------------------------- 
+http://www.openisbn.com

@@ -1,0 +1,15 @@
+Project OpenISBN 
+----------------------------------------------------------------------------------- 
+Title: Prey 
+Cover:  http://www.openisbn.com/cover/0002005549_72.jpg 
+Author: Michael Crichton, 
+Publisher: Harper-collins Publishers 
+Pages: 0 
+ISBN10: 0002005549 
+ISBN13: 9780002005548 
+URL: http://www.openisbn.com/isbn/9780002005548/ 
+List Price: 0.00 
+Price comparison: 
+URL: http://www.openisbn.com/price/9780002005548/ 
+----------------------------------------------------------------------------------- 
+http://www.openisbn.com

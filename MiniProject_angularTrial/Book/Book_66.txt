@@ -1,0 +1,15 @@
+Project OpenISBN 
+----------------------------------------------------------------------------------- 
+Title: Fermat's Last Theorem 
+Cover:  http://www.openisbn.com/cover/0001054635_72.jpg 
+Author: Simon Singh, 
+Publisher: Harpercollins Audio 
+Pages: 0 
+ISBN10: 0001054635 
+ISBN13: 9780001054639 
+URL: http://www.openisbn.com/isbn/9780001054639/ 
+List Price: 0.00 
+Price comparison: 
+URL: http://www.openisbn.com/price/9780001054639/ 
+----------------------------------------------------------------------------------- 
+http://www.openisbn.com

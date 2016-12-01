@@ -1,0 +1,15 @@
+Project OpenISBN 
+----------------------------------------------------------------------------------- 
+Title: Because A Little Bug Went Ka-Choo! (Dr Seuss) 
+Cover:  http://www.openisbn.com/cover/0001713205_72.jpg 
+Author: Rosetta Stone, 
+Publisher: Harper Collins Childs 
+Pages: 64 
+ISBN10: 0001713205 
+ISBN13: 9780001713208 
+URL: http://www.openisbn.com/isbn/9780001713208/ 
+List Price: 0.00 
+Price comparison: 
+URL: http://www.openisbn.com/price/9780001713208/ 
+----------------------------------------------------------------------------------- 
+http://www.openisbn.com

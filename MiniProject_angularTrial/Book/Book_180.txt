@@ -1,0 +1,15 @@
+Project OpenISBN 
+----------------------------------------------------------------------------------- 
+Title: Duck In The Truck 
+Cover:  http://www.openisbn.com/cover/0001983466_72.jpg 
+Author: Jez Alborough,Jez Alborough, 
+Publisher: HarperCollins Children's Books 
+Pages: 32 
+ISBN10: 0001983466 
+ISBN13: 9780001983465 
+URL: http://www.openisbn.com/isbn/9780001983465/ 
+List Price: 0.00 
+Price comparison: 
+URL: http://www.openisbn.com/price/9780001983465/ 
+----------------------------------------------------------------------------------- 
+http://www.openisbn.com

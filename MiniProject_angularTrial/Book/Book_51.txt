@@ -1,0 +1,15 @@
+Project OpenISBN 
+----------------------------------------------------------------------------------- 
+Title: The Final Cut 
+Cover:  http://www.openisbn.com/cover/0001048511_72.jpg 
+Author: Michael Dobbs,Paul Eddington, 
+Publisher: HarperCollins Audio 
+Pages: 0 
+ISBN10: 0001048511 
+ISBN13: 9780001048515 
+URL: http://www.openisbn.com/isbn/9780001048515/ 
+List Price: 0.00 
+Price comparison: 
+URL: http://www.openisbn.com/price/9780001048515/ 
+----------------------------------------------------------------------------------- 
+http://www.openisbn.com

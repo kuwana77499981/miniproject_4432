@@ -1,0 +1,15 @@
+Project OpenISBN 
+----------------------------------------------------------------------------------- 
+Title: My First Words Hb 
+Cover:  http://www.openisbn.com/cover/0001982842_72.jpg 
+Author: Lynn Breeze, 
+Publisher: Harpercollins 
+Pages: 48 
+ISBN10: 0001982842 
+ISBN13: 9780001982840 
+URL: http://www.openisbn.com/isbn/9780001982840/ 
+List Price: 0.00 
+Price comparison: 
+URL: http://www.openisbn.com/price/9780001982840/ 
+----------------------------------------------------------------------------------- 
+http://www.openisbn.com

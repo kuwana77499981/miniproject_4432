@@ -1,0 +1,15 @@
+Project OpenISBN 
+----------------------------------------------------------------------------------- 
+Title: The Good Samaritan 
+Cover:  http://www.openisbn.com/cover/0002258145_72.jpg 
+Author: Nicola Thorne, 
+Publisher: Collins 
+Pages: 288 
+ISBN10: 0002258145 
+ISBN13: 9780002258142 
+URL: http://www.openisbn.com/isbn/9780002258142/ 
+List Price: 0.00 
+Price comparison: 
+URL: http://www.openisbn.com/price/9780002258142/ 
+----------------------------------------------------------------------------------- 
+http://www.openisbn.com

@@ -1,0 +1,450 @@
+<svg version="1.1" id="floor_number1_svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="707px" height="480px" viewBox="0 0 707 480" enable-background="new 0 0 707 480" xml:space="preserve">
+	<image overflow="visible" width="707" height="480" xlink:href="./images/floor_number1_plain.png" transform="matrix(1 0 0 1 0 4.882813e-004)"/>
+	<polygon class="CCQS" alt="Q-S" points="332.375,267.417 332.624,295.582 332.375,327.404 340.325,327.404 
+		340.575,443.814 355.337,444.251 355.337,477.564 673.176,479.62 674.057,472.553 675.849,467.079 678.571,461.974 
+		682.152,457.396 686.369,453.584 690.917,450.678 694.673,448.978 699.635,447.528 704.41,446.895 707.045,446.839 
+		706.735,389.374 434.825,82.174 340.325,82.174 340.325,239.364 332.375,239.625 332.375,267.063 	"/>
+	<polygon class="CCLP" alt="L-P" points="340.325,130.75 340.325,0.555 226.75,0 226.75,59 184.25,58.75 
+		184.25,26.25 147.75,26.25 0,69 0,280.5 41.75,280.5 40.75,389.25 60.75,389.25 60.5,437.25 83.25,437.25 83,477.75 262.25,477.75 
+		262.5,129.75 	"/>
+	<g class="CCLP">
+	<rect id="LA1" x="179.75" y="396.5"/>
+	<rect id="LA2" x="189.31" y="396.5" width="9.561" height="9.75"/>
+	<rect id="LA3" x="198.869" y="396.5"/>
+	<rect id="LA4" x="208.429" y="396.5" width="9.559" height="9.75"/>
+	<rect id="LA5" x="217.988" y="396.5" width="9.561" height="9.75"/>
+	<rect id="LA6" x="227.547" y="396.5"/>
+	<rect id="LA7" x="237.107" y="396.5" width="9.561" height="9.75"/>
+	<rect id="LA8" x="237.107" y="406.25" width="9.561" height="9.75"/>
+	<rect id="LA9" x="227.547" y="406.25"/>
+	<rect id="LB1" x="217.988" y="406.25" width="9.561" height="9.75"/>
+	<rect id="LB2" x="208.429" y="406.25" width="9.559" height="9.75"/>
+	<rect id="LB3" x="198.869" y="406.25"/>
+	<rect id="LB4" x="189.31" y="406.25" width="9.561" height="9.75"/>
+	<rect id="LB5" x="179.75" y="406.25"/>
+	<rect id="LB6" x="179.75" y="433.458"/>
+	<rect id="LB7" x="189.31" y="433.458" width="9.561" height="9.75"/>
+	<rect id="LB8" x="198.869" y="433.458"/>
+	<rect id="LB9" x="208.429" y="433.458" width="9.559" height="9.75"/>
+	<rect id="LC1" x="217.988" y="433.458" width="9.561" height="9.75"/>
+	<rect id="LC2" x="227.547" y="433.458"/>
+	<rect id="LC3" x="237.107" y="433.458" width="9.561" height="9.75"/>
+	<rect id="LC4" x="237.107" y="443.208" width="9.561" height="9.75"/>
+	<rect id="LC5" x="227.547" y="443.208"/>
+	<rect id="LC6" x="217.988" y="443.208" width="9.561" height="9.75"/>
+	<rect id="LC7" x="208.429" y="443.208" width="9.559" height="9.75"/>
+	<rect id="LC8" x="198.869" y="443.208"/>
+	<rect id="LC9" x="189.31" y="443.208" width="9.561" height="9.75"/>
+	<rect id="LD1" x="179.75" y="443.208"/>
+	<rect id="LD2" x="93.054" y="433.458"/>
+	<rect id="MA1" x="102.613" y="433.458" width="9.561" height="9.75"/>
+	<rect id="MA2" x="112.173" y="433.458"/>
+	<rect id="MA3" x="121.732" y="433.458"/>
+	<rect id="MA4" x="131.292" y="433.458"/>
+	<rect id="MA5" x="140.851" y="433.458" width="9.561" height="9.75"/>
+	<rect id="MA6" x="150.411" y="433.458"/>
+	<rect id="MA7" x="150.411" y="443.208"/>
+	<rect id="MA8" x="140.851" y="443.208" width="9.561" height="9.75"/>
+	<rect id="MA9" x="131.292" y="443.208"/>
+	<rect id="MB1" x="121.732" y="443.208"/>
+	<rect id="MB2" x="112.173" y="443.208"/>
+	<rect id="MB3" x="102.613" y="443.208" width="9.561" height="9.75"/>
+	<rect id="MB4" x="93.054" y="443.208"/>
+	<rect id="MC1" x="93.054" y="396.5"/>
+	<rect id="MC2" x="102.613" y="396.5" width="9.561" height="9.75"/>
+	<rect id="MC3" x="112.173" y="396.5"/>
+	<rect id="MC4" x="121.732" y="396.5"/>
+	<rect id="MC5" x="131.292" y="396.5"/>
+	<rect id="MC6" x="140.851" y="396.5" width="9.561" height="9.75"/>
+	<rect id="MC7" x="150.411" y="396.5"/>
+	<rect id="MC8" x="150.411" y="406.25"/>
+	<rect id="MC9" x="140.851" y="406.25" width="9.561" height="9.75"/>
+	<rect id="MD1" x="131.292" y="406.25"/>
+	<rect id="MD2" x="121.732" y="406.25"/>
+	<rect id="MD3" x="112.173" y="406.25"/>
+	<rect id="MD4" x="102.613" y="406.25" width="9.561" height="9.75"/>
+	<rect id="MD5" x="93.054" y="406.25"/>
+	<rect id="ME1" x="93.054" y="357.604"/>
+	<rect id="ME2" x="102.613" y="357.604" width="9.561" height="9.75"/>
+	<rect id="ME3" x="112.173" y="357.604"/>
+	<rect id="ME4" x="121.732" y="357.604"/>
+	<rect id="ME5" x="131.292" y="357.604"/>
+	<rect id="ME6" x="140.851" y="357.604" width="9.561" height="9.75"/>
+	<rect id="ME7" x="150.411" y="357.604"/>
+	<rect id="ME8" x="150.411" y="367.354"/>
+	<rect id="ME9" x="140.851" y="367.354" width="9.561" height="9.75"/>
+	<rect id="MF1" x="131.292" y="367.354"/>
+	<rect id="MF2" x="121.732" y="367.354"/>
+	<rect id="MF3" x="112.173" y="367.354"/>
+	<rect id="MF4" x="102.613" y="367.354" width="9.561" height="9.75"/>
+	<rect id="MF5" x="93.054" y="367.354"/>
+	<rect id="NA1" x="93.054" y="321.438"/>
+	<rect id="NA2" x="102.613" y="321.438" width="9.561" height="9.75"/>
+	<rect id="NA3" x="112.173" y="321.438"/>
+	<rect id="NA4" x="121.732" y="321.438"/>
+	<rect id="NA5" x="131.292" y="321.438"/>
+	<rect id="NA6" x="140.851" y="321.438" width="9.561" height="9.75"/>
+	<rect id="NA7" x="150.411" y="321.438"/>
+	<rect id="NA8" x="150.411" y="331.188"/>
+	<rect id="NA9" x="140.851" y="331.188" width="9.561" height="9.75"/>
+	<rect id="NB1" x="131.292" y="331.188"/>
+	<rect id="NB2" x="121.732" y="331.188"/>
+	<rect id="NB3" x="112.173" y="331.188"/>
+	<rect id="NB4" x="102.613" y="331.188" width="9.561" height="9.75"/>
+	<rect id="NB5" x="93.054" y="331.188"/>
+	<rect id="NC1" x="93.054" y="284.271"/>
+	<rect id="NC2" x="102.613" y="284.271" width="9.561" height="9.75"/>
+	<rect id="NC3" x="112.173" y="284.271"/>
+	<rect id="NC4" x="121.732" y="284.271"/>
+	<rect id="NC5" x="131.292" y="284.271"/>
+	<rect id="NC6" x="140.851" y="284.271" width="9.561" height="9.75"/>
+	<rect id="NC7" x="150.411" y="284.271"/>
+	<rect id="NC8" x="150.411" y="294.021"/>
+	<rect id="NC9" x="140.851" y="294.021" width="9.561" height="9.75"/>
+	<rect id="ND1" x="131.292" y="294.021"/>
+	<rect id="ND2" x="121.732" y="294.021"/>
+	<rect id="ND3" x="112.173" y="294.021"/>
+	<rect id="ND4" x="102.613" y="294.021" width="9.561" height="9.75"/>
+	<rect id="ND5" x="93.054" y="294.021"/>
+	<rect id="OA1" x="70.22" y="248.768"/>
+	<rect id="OA2" x="79.78" y="248.768" width="9.561" height="9.75"/>
+	<rect id="OA3" x="89.339" y="248.768"/>
+	<rect id="OA4" x="98.899" y="248.768"/>
+	<rect id="OA5" x="108.458" y="248.768"/>
+	<rect id="OA6" x="118.018" y="248.768" width="9.561" height="9.75"/>
+	<rect id="OA7" x="127.577" y="248.768"/>
+	<rect id="OA8" x="127.577" y="258.518"/>
+	<rect id="OA9" x="118.018" y="258.518" width="9.561" height="9.75"/>
+	<rect id="OB1" x="108.458" y="258.518"/>
+	<rect id="OB2" x="98.899" y="258.518"/>
+	<rect id="OB3" x="89.339" y="258.518"/>
+	<rect id="OB4" x="79.78" y="258.518" width="9.561" height="9.75"/>
+	<rect id="OB5" x="70.22" y="258.518"/>
+	<rect id="OC1" x="41.542" y="179.268"/>
+	<rect id="OC2" x="51.101" y="179.268" width="9.561" height="9.75"/>
+	<rect id="OC3" x="60.661" y="179.268"/>
+	<rect id="OC4" x="70.22" y="179.268" width="9.559" height="9.75"/>
+	<rect id="OC5" x="79.779" y="179.268" width="9.561" height="9.75"/>
+	<rect id="OC6" x="89.339" y="179.268"/>
+	<rect id="OC7" x="98.898" y="179.268" width="9.561" height="9.75"/>
+	<rect id="OC8" x="98.898" y="189.018" width="9.561" height="9.75"/>
+	<rect id="OC9" x="89.339" y="189.018"/>
+	<rect id="OD1" x="79.779" y="189.018" width="9.561" height="9.75"/>
+	<rect id="OD2" x="70.22" y="189.018" width="9.559" height="9.75"/>
+	<rect id="OD3" x="60.661" y="189.018"/>
+	<rect id="OD4" x="51.101" y="189.018" width="9.561" height="9.75"/>
+	<rect id="OD5" x="41.542" y="189.018"/>
+	<rect id="OE1" x="41.542" y="144.605"/>
+	<rect id="OE2" x="51.101" y="144.605" width="9.561" height="9.75"/>
+	<rect id="OE3" x="60.661" y="144.605"/>
+	<rect id="OE4" x="70.22" y="144.605" width="9.559" height="9.75"/>
+	<rect id="OE5" x="79.779" y="144.605" width="9.561" height="9.75"/>
+	<rect id="OE6" x="89.339" y="144.605"/>
+	<rect id="OE7" x="98.898" y="144.605" width="9.561" height="9.75"/>
+	<rect id="OE8" x="98.898" y="154.355" width="9.561" height="9.75"/>
+	<rect id="OE9" x="89.339" y="154.355"/>
+	<rect id="OF1" x="79.779" y="154.355" width="9.561" height="9.75"/>
+	<rect id="OF2" x="70.22" y="154.355" width="9.559" height="9.75"/>
+	<rect id="OF3" x="60.661" y="154.355"/>
+	<rect id="OF4" x="51.101" y="154.355" width="9.561" height="9.75"/>
+	<rect id="OF5" x="41.542" y="154.355"/>
+	<rect id="OG1" x="54.554" y="110.273"/>
+	<rect id="OG2" x="64.113" y="110.273" width="9.561" height="9.75"/>
+	<rect id="OG3" x="73.673" y="110.273"/>
+	<rect id="OG4" x="83.232" y="110.273"/>
+	<rect id="OG5" x="92.792" y="110.273"/>
+	<rect id="OG6" x="102.351" y="110.273" width="9.561" height="9.75"/>
+	<rect id="OG7" x="111.911" y="110.273"/>
+	<rect id="OG8" x="111.911" y="120.023"/>
+	<rect id="OG9" x="102.351" y="120.023" width="9.561" height="9.75"/>
+	<rect id="OH1" x="92.792" y="120.023"/>
+	<rect id="OH2" x="83.232" y="120.023"/>
+	<rect id="OH3" x="73.673" y="120.023"/>
+	<rect id="OH4" x="64.113" y="120.023" width="9.561" height="9.75"/>
+	<rect id="OH5" x="54.554" y="120.023"/>
+	<rect id="PA1" x="71.387" y="74.273"/>
+	<rect id="PA2" x="80.947" y="74.273" width="9.561" height="9.75"/>
+	<rect id="PA3" x="90.506" y="74.273"/>
+	<rect id="PA4" x="100.066" y="74.273"/>
+	<rect id="PA5" x="109.625" y="74.273"/>
+	<rect id="PA6" x="119.185" y="74.273" width="9.561" height="9.75"/>
+	<rect id="PA7" x="128.744" y="74.273"/>
+	<rect id="PA8" x="128.744" y="84.023"/>
+	<rect id="PA9" x="119.185" y="84.023" width="9.561" height="9.75"/>
+	<rect id="PB1" x="109.625" y="84.023"/>
+	<rect id="PB2" x="100.066" y="84.023"/>
+	<rect id="PB3" x="90.506" y="84.023"/>
+	<rect id="PB4" x="80.947" y="84.023" width="9.561" height="9.75"/>
+	<rect id="PB5" x="71.387" y="84.023"/>
+	<rect id="PC1" x="159.887" y="74.273"/>
+	<rect id="PC2" x="169.447" y="74.273" width="9.561" height="9.75"/>
+	<rect id="PC3" x="179.006" y="74.273"/>
+	<rect id="PC4" x="188.566" y="74.273"/>
+	<rect id="PC5" x="198.125" y="74.273"/>
+	<rect id="PC6" x="207.685" y="74.273" width="9.561" height="9.75"/>
+	<rect id="PC7" x="217.244" y="74.273"/>
+	<rect id="PC8" x="217.244" y="84.023"/>
+	<rect id="PC9" x="207.685" y="84.023" width="9.561" height="9.75"/>
+	<rect id="PD1" x="198.125" y="84.023"/>
+	<rect id="PD2" x="188.566" y="84.023"/>
+	<rect id="PD3" x="179.006" y="84.023"/>
+	<rect id="PD4" x="169.447" y="84.023" width="9.561" height="9.75"/>
+	<rect id="PD5" x="159.887" y="84.023"/>
+	<rect id="PE1" x="137.137" y="109.44" width="9.963" height="9.75"/>
+	<rect id="PE2" x="147.1" y="109.44" width="9.963" height="9.75"/>
+	<rect id="PE3" x="157.063" y="109.44" width="9.963" height="9.75"/>
+	<rect id="PE4" x="167.026" y="109.44" width="9.962" height="9.75"/>
+	<rect id="PE5" x="176.988" y="109.44" width="9.964" height="9.75"/>
+	<rect id="PE6" x="186.952" y="109.44" width="9.963" height="9.75"/>
+	<rect id="PE7" x="196.915" y="109.44" width="9.963" height="9.75"/>
+	<rect id="PE8" x="206.877" y="109.44" width="9.963" height="9.75"/>
+	<rect id="PE9" x="216.841" y="109.44" width="9.963" height="9.75"/>
+	<rect id="PF1" x="216.841" y="119.19" width="9.963" height="9.75"/>
+	<rect id="PF2" x="206.877" y="119.19" width="9.963" height="9.75"/>
+	<rect id="PF3" x="196.915" y="119.19" width="9.963" height="9.75"/>
+	<rect id="PF4" x="186.952" y="119.19" width="9.962" height="9.75"/>
+	<rect id="PF5" x="176.989" y="119.19" width="9.964" height="9.75"/>
+	<rect id="PF6" x="167.026" y="119.19" width="9.963" height="9.75"/>
+	<rect id="PF7" x="157.063" y="119.19" width="9.963" height="9.75"/>
+	<rect id="PF8" x="147.1" y="119.19" width="9.963" height="9.75"/>
+	<rect id="PF9" x="137.137" y="119.19" width="9.963" height="9.75"/>
+	<rect id="PG1" x="128.744" y="144.605" width="9.963" height="9.75"/>
+	<rect id="PG2" x="138.707" y="144.605" width="9.963" height="9.75"/>
+	<rect id="PG3" x="148.67" y="144.605" width="9.963" height="9.75"/>
+	<rect id="PG4" x="158.633" y="144.605" width="9.962" height="9.75"/>
+	<rect id="PG5" x="168.596" y="144.605" width="9.963" height="9.75"/>
+	<rect id="PG6" x="178.559" y="144.605" width="9.963" height="9.75"/>
+	<rect id="PG7" x="188.522" y="144.605" width="9.963" height="9.75"/>
+	<rect id="PG8" x="198.485" y="144.605" width="9.963" height="9.75"/>
+	<rect id="PG9" x="208.448" y="144.605" width="9.964" height="9.75"/>
+	<rect id="PH1" x="218.411" y="144.605" width="9.963" height="9.75"/>
+	<rect id="PH2" x="218.411" y="154.355" width="9.963" height="9.75"/>
+	<rect id="PH3" x="208.448" y="154.355" width="9.964" height="9.75"/>
+	<rect id="PH4" x="198.485" y="154.355" width="9.962" height="9.75"/>
+	<rect id="PH5" x="188.522" y="154.355" width="9.963" height="9.75"/>
+	<rect id="PH6" x="178.559" y="154.355" width="9.963" height="9.75"/>
+	<rect id="PH7" x="168.596" y="154.355" width="9.963" height="9.75"/>
+	<rect id="PH8" x="158.633" y="154.355" width="9.963" height="9.75"/>
+	<rect id="PH9" x="148.67" y="154.355" width="9.963" height="9.75"/>
+	<rect id="PI1" x="138.707" y="154.355" width="9.963" height="9.75"/>
+	<rect id="PJ1" x="128.744" y="154.355" width="9.963" height="9.75"/>
+	<rect id="PK1" x="128.651" y="178.272" width="9.963" height="9.75"/>
+	<rect id="PK2" x="138.614" y="178.272" width="9.964" height="9.75"/>
+	<rect id="PK3" x="148.578" y="178.272" width="9.963" height="9.75"/>
+	<rect id="PK4" x="158.541" y="178.272" width="9.962" height="9.75"/>
+	<rect id="PK5" x="168.503" y="178.272" width="9.963" height="9.75"/>
+	<rect id="PK6" x="178.466" y="178.272" width="9.963" height="9.75"/>
+	<rect id="PK7" x="188.429" y="178.272" width="9.963" height="9.75"/>
+	<rect id="PK8" x="198.392" y="178.272" width="9.963" height="9.75"/>
+	<rect id="PK9" x="208.355" y="178.272" width="9.963" height="9.75"/>
+	<rect id="PL1" x="218.318" y="178.272" width="9.963" height="9.75"/>
+	<rect id="PL2" x="218.318" y="188.022" width="9.963" height="9.75"/>
+	<rect id="PL3" x="208.355" y="188.022" width="9.963" height="9.75"/>
+	<rect id="PL4" x="198.393" y="188.022" width="9.962" height="9.75"/>
+	<rect id="PL5" x="188.429" y="188.022" width="9.963" height="9.75"/>
+	<rect id="PL6" x="178.466" y="188.022" width="9.963" height="9.75"/>
+	<rect id="PL7" x="168.503" y="188.022" width="9.963" height="9.75"/>
+	<rect id="PL8" x="158.54" y="188.022" width="9.963" height="9.75"/>
+	<rect id="PL9" x="148.577" y="188.022" width="9.963" height="9.75"/>
+	<rect id="PM1" x="138.614" y="188.022" width="9.964" height="9.75"/>
+	<rect id="PM2" x="128.651" y="188.022" width="9.963" height="9.75"/>
+	</g><g class="CCQS">
+	<rect id="QA1" x="391.25" y="301.229"/>
+	<rect id="QA2" x="391.25" y="310.789"/>
+	<rect id="QA3" x="391.25" y="320.348"/>
+	<rect id="QA4" x="391.25" y="329.908" width="9.75" height="9.559"/>
+	<rect id="QA5" x="391.25" y="339.467"/>
+	<rect id="QA6" x="391.25" y="349.025"/>
+	<rect id="QA7" x="391.25" y="358.586"/>
+	<rect id="QA8" x="381.5" y="358.586"/>
+	<rect id="QA9" x="381.5" y="349.025"/>
+	<rect id="QB1" x="381.5" y="339.467"/>
+	<rect id="QB2" x="381.5" y="329.908" width="9.75" height="9.559"/>
+	<rect id="QB3" x="381.5" y="320.348"/>
+	<rect id="QB4" x="381.5" y="310.789"/>
+	<rect id="QB5" x="381.5" y="301.229"/>
+	<rect id="QC1" x="425.5" y="301.229"/>
+	<rect id="QC2" x="425.5" y="310.789"/>
+	<rect id="QC3" x="425.5" y="320.348"/>
+	<rect id="QC4" x="425.5" y="329.908" width="9.75" height="9.559"/>
+	<rect id="QC5" x="425.5" y="339.467"/>
+	<rect id="QC6" x="425.5" y="349.025"/>
+	<rect id="QC7" x="425.5" y="358.586"/>
+	<rect id="QC8" x="415.75" y="358.586"/>
+	<rect id="QC9" x="415.75" y="349.025"/>
+	<rect id="QD1" x="415.75" y="339.467"/>
+	<rect id="QD2" x="415.75" y="329.908" width="9.75" height="9.559"/>
+	<rect id="QD3" x="415.75" y="320.348"/>
+	<rect id="QD4" x="415.75" y="310.789"/>
+	<rect id="QD5" x="415.75" y="301.229"/>
+	<rect id="QE1" x="462" y="301.229"/>
+	<rect id="QE2" x="462" y="310.789"/>
+	<rect id="QE3" x="462" y="320.348"/>
+	<rect id="QE4" x="462" y="329.908" width="9.75" height="9.559"/>
+	<rect id="QE5" x="462" y="339.467"/>
+	<rect id="QE6" x="462" y="349.025"/>
+	<rect id="QE7" x="462" y="358.586"/>
+	<rect id="QE8" x="452.25" y="358.586"/>
+	<rect id="QE9" x="452.25" y="349.025"/>
+	<rect id="QF1" x="452.25" y="339.467"/>
+	<rect id="QF2" x="452.25" y="329.908" width="9.75" height="9.559"/>
+	<rect id="QF3" x="452.25" y="320.348"/>
+	<rect id="QF4" x="452.25" y="310.789"/>
+	<rect id="QF5" x="452.25" y="301.229"/>
+	<rect id="QG1" x="499.5" y="301.229"/>
+	<rect id="QG2" x="499.5" y="310.789"/>
+	<rect id="QG3" x="499.5" y="320.348"/>
+	<rect id="QG4" x="499.5" y="329.908" width="9.75" height="9.559"/>
+	<rect id="QG5" x="499.5" y="339.467"/>
+	<rect id="QG6" x="499.5" y="349.025"/>
+	<rect id="QG7" x="499.5" y="358.586"/>
+	<rect id="QG8" x="489.75" y="358.586"/>
+	<rect id="QG9" x="489.75" y="349.025"/>
+	<rect id="QH1" x="489.75" y="339.467"/>
+	<rect id="QH2" x="489.75" y="329.908" width="9.75" height="9.559"/>
+	<rect id="QH3" x="489.75" y="320.348"/>
+	<rect id="QH4" x="489.75" y="310.789"/>
+	<rect id="QH5" x="489.75" y="301.229"/>
+	<rect id="RA1" x="534.25" y="301.229"/>
+	<rect id="RA2" x="534.25" y="310.789"/>
+	<rect id="RA3" x="534.25" y="320.348"/>
+	<rect id="RA4" x="534.25" y="329.908" width="9.75" height="9.559"/>
+	<rect id="RA5" x="534.25" y="339.467"/>
+	<rect id="RA6" x="534.25" y="349.025"/>
+	<rect id="RA7" x="534.25" y="358.586"/>
+	<rect id="RA8" x="524.5" y="358.586"/>
+	<rect id="RA9" x="524.5" y="349.025"/>
+	<rect id="RB1" x="524.5" y="339.467"/>
+	<rect id="RB2" x="524.5" y="329.908" width="9.75" height="9.559"/>
+	<rect id="RB3" x="524.5" y="320.348"/>
+	<rect id="RB4" x="524.5" y="310.789"/>
+	<rect id="RB5" x="524.5" y="301.229"/>
+	<rect id="RC1" x="570.625" y="301.229"/>
+	<rect id="RC2" x="570.625" y="310.789"/>
+	<rect id="RC3" x="570.625" y="320.348"/>
+	<rect id="RC4" x="570.625" y="329.908" width="9.75" height="9.559"/>
+	<rect id="RC5" x="570.625" y="339.467"/>
+	<rect id="RC6" x="570.625" y="349.025"/>
+	<rect id="RC7" x="570.625" y="358.586"/>
+	<rect id="RC8" x="560.875" y="358.586"/>
+	<rect id="RC9" x="560.875" y="349.025"/>
+	<rect id="RD1" x="560.875" y="339.467"/>
+	<rect id="RD2" x="560.875" y="329.908" width="9.75" height="9.559"/>
+	<rect id="RD3" x="560.875" y="320.348"/>
+	<rect id="RD4" x="560.875" y="310.789"/>
+	<rect id="RD5" x="560.875" y="301.229"/>
+	<rect id="RE1" x="648.333" y="389.152"/>
+	<rect id="RE2" x="648.333" y="398.713"/>
+	<rect id="RE3" x="648.333" y="408.271"/>
+	<rect id="RE4" x="648.333" y="417.832" width="9.75" height="9.559"/>
+	<rect id="RE5" x="648.333" y="427.391"/>
+	<rect id="RE6" x="648.333" y="436.949"/>
+	<rect id="RE7" x="648.333" y="446.51"/>
+	<rect id="RE8" x="638.583" y="446.51"/>
+	<rect id="RE9" x="638.583" y="436.949"/>
+	<rect id="RF1" x="638.583" y="427.391"/>
+	<rect id="RF2" x="638.583" y="417.832" width="9.75" height="9.559"/>
+	<rect id="RF3" x="638.583" y="408.271"/>
+	<rect id="RF4" x="638.583" y="398.713"/>
+	<rect id="RF5" x="638.583" y="389.152"/>
+	<rect id="SA1" x="611.333" y="389.152"/>
+	<rect id="SA2" x="611.333" y="398.713"/>
+	<rect id="SA3" x="611.333" y="408.271"/>
+	<rect id="SA4" x="611.333" y="417.832" width="9.75" height="9.559"/>
+	<rect id="SA5" x="611.333" y="427.391"/>
+	<rect id="SA6" x="611.333" y="436.949"/>
+	<rect id="SA7" x="611.333" y="446.51"/>
+	<rect id="SA8" x="601.583" y="446.51"/>
+	<rect id="SA9" x="601.583" y="436.949"/>
+	<rect id="SB1" x="601.583" y="427.391"/>
+	<rect id="SB2" x="601.583" y="417.832" width="9.75" height="9.559"/>
+	<rect id="SB3" x="601.583" y="408.271"/>
+	<rect id="SB4" x="601.583" y="398.713"/>
+	<rect id="SB5" x="601.583" y="389.152"/>
+	<rect id="SC1" x="570.625" y="389.152"/>
+	<rect id="SC2" x="570.625" y="398.713"/>
+	<rect id="SC3" x="570.625" y="408.271"/>
+	<rect id="SC4" x="570.625" y="417.832" width="9.75" height="9.559"/>
+	<rect id="SC5" x="570.625" y="427.391"/>
+	<rect id="SC6" x="570.625" y="436.949"/>
+	<rect id="SC7" x="570.625" y="446.51"/>
+	<rect id="SC8" x="560.875" y="446.51"/>
+	<rect id="SC9" x="560.875" y="436.949"/>
+	<rect id="SD1" x="560.875" y="427.391"/>
+	<rect id="SD2" x="560.875" y="417.832" width="9.75" height="9.559"/>
+	<rect id="SD3" x="560.875" y="408.271"/>
+	<rect id="SD4" x="560.875" y="398.713"/>
+	<rect id="SD5" x="560.875" y="389.152"/>
+	<rect id="SE1" x="534.25" y="389.152"/>
+	<rect id="SE2" x="534.25" y="398.713"/>
+	<rect id="SE3" x="534.25" y="408.271"/>
+	<rect id="SE4" x="534.25" y="417.832" width="9.75" height="9.559"/>
+	<rect id="SE5" x="534.25" y="427.391"/>
+	<rect id="SE6" x="534.25" y="436.949"/>
+	<rect id="SE7" x="534.25" y="446.51"/>
+	<rect id="SE8" x="524.5" y="446.51"/>
+	<rect id="SE9" x="524.5" y="436.949"/>
+	<rect id="SF1" x="524.5" y="427.391"/>
+	<rect id="SF2" x="524.5" y="417.832" width="9.75" height="9.559"/>
+	<rect id="SF3" x="524.5" y="408.271"/>
+	<rect id="SF4" x="524.5" y="398.713"/>
+	<rect id="SF5" x="524.5" y="389.152"/>
+	<rect id="SG1" x="499.5" y="389.152" fill="none"/>
+	<rect id="SG2" x="499.5" y="398.713" fill="none"/>
+	<rect id="SG3" x="499.5" y="408.271" fill="none"/>
+	<rect id="SG4" x="499.5" y="417.832" fill="none" width="9.75" height="9.559"/>
+	<rect id="SG5" x="499.5" y="427.391" fill="none"/>
+	<rect id="SG6" x="499.5" y="436.949" fill="none"/>
+	<rect id="SG7" x="499.5" y="446.51" fill="none"/>
+	<rect id="SG8" x="489.75" y="446.51" fill="none"/>
+	<rect id="SG9" x="489.75" y="436.949" fill="none"/>
+	<rect id="SH1" x="489.75" y="427.391" fill="none"/>
+	<rect id="SH2" x="489.75" y="417.832" fill="none" width="9.75" height="9.559"/>
+	<rect id="SH3" x="489.75" y="408.271" fill="none"/>
+	<rect id="SH4" x="489.75" y="398.713" fill="none"/>
+	<rect id="SH5" x="489.75" y="389.152" fill="none"/>
+	<rect id="SI1" x="462" y="389.152" fill="none"/>
+	<rect id="SI2" x="462" y="398.713" fill="none"/>
+	<rect id="SI3" x="462" y="408.271" fill="none"/>
+	<rect id="SI4" x="462" y="417.832" fill="none" width="9.75" height="9.559"/>
+	<rect id="SI5" x="462" y="427.391" fill="none"/>
+	<rect id="SI6" x="462" y="436.949" fill="none"/>
+	<rect id="SI7" x="462" y="446.51" fill="none"/>
+	<rect id="SI8" x="452.25" y="446.51" fill="none"/>
+	<rect id="SI9" x="452.25" y="436.949" fill="none"/>
+	<rect id="SJ1" x="452.25" y="427.391" fill="none"/>
+	<rect id="SJ2" x="452.25" y="417.832" fill="none" width="9.75" height="9.559"/>
+	<rect id="SJ3" x="452.25" y="408.271" fill="none"/>
+	<rect id="SJ4" x="452.25" y="398.713" fill="none"/>
+	<rect id="SJ5" x="452.25" y="389.152" fill="none"/>
+	<rect id="SK1" x="425.5" y="389.152" fill="none"/>
+	<rect id="SK2" x="425.5" y="398.713" fill="none"/>
+	<rect id="SK3" x="425.5" y="408.271" fill="none"/>
+	<rect id="SK4" x="425.5" y="417.832" fill="none" width="9.75" height="9.559"/>
+	<rect id="SK5" x="425.5" y="427.391" fill="none"/>
+	<rect id="SK6" x="425.5" y="436.949" fill="none"/>
+	<rect id="SK7" x="425.5" y="446.51" fill="none"/>
+	<rect id="SK8" x="415.75" y="446.51" fill="none"/>
+	<rect id="SK9" x="415.75" y="436.949" fill="none"/>
+	<rect id="SL1" x="415.75" y="427.391" fill="none"/>
+	<rect id="SL2" x="415.75" y="417.832" fill="none" width="9.75" height="9.559"/>
+	<rect id="SL3" x="415.75" y="408.271" fill="none"/>
+	<rect id="SL4" x="415.75" y="398.713" fill="none"/>
+	<rect id="SL5" x="415.75" y="389.152" fill="none"/>
+	<rect id="SM1" x="391.25" y="389.152" fill="none"/>
+	<rect id="SM2" x="391.25" y="398.713" fill="none"/>
+	<rect id="SM3" x="391.25" y="408.271" fill="none"/>
+	<rect id="SM4" x="391.25" y="417.832" fill="none" width="9.75" height="9.559"/>
+	<rect id="SM5" x="391.25" y="427.391" fill="none"/>
+	<rect id="SM6" x="391.25" y="436.949" fill="none"/>
+	<rect id="SM7" x="391.25" y="446.51" fill="none"/>
+	<rect id="SM8" x="381.5" y="446.51" fill="none"/>
+	<rect id="SM9" x="381.5" y="436.949" fill="none"/>
+	<rect id="SN1" x="381.5" y="427.391" fill="none"/>
+	<rect id="SN2" x="381.5" y="417.832" fill="none" width="9.75" height="9.559"/>
+	<rect id="SN3" x="381.5" y="408.271" fill="none"/>
+	<rect id="SN4" x="381.5" y="398.713" fill="none"/>
+	<rect id="SN5" x="381.5" y="389.152" fill="none"/>
+	</g>
+</svg>

@@ -1,0 +1,15 @@
+Project OpenISBN 
+----------------------------------------------------------------------------------- 
+Title: Richard Scarry's Longest Book Ever 
+Cover:  http://www.openisbn.com/cover/0001981587_72.jpg 
+Author: Richard Scarry, 
+Publisher: Collins 
+Pages: 12 
+ISBN10: 0001981587 
+ISBN13: 9780001981584 
+URL: http://www.openisbn.com/isbn/9780001981584/ 
+List Price: 0.00 
+Price comparison: 
+URL: http://www.openisbn.com/price/9780001981584/ 
+----------------------------------------------------------------------------------- 
+http://www.openisbn.com

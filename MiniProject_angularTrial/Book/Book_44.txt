@@ -1,0 +1,15 @@
+Project OpenISBN 
+----------------------------------------------------------------------------------- 
+Title: Wuthering Heights (HarperCollinsAudioBooks) 
+Cover:  http://www.openisbn.com/cover/0001046403_72.jpg 
+Author: Emily Bronte,Martin Shaw, 
+Publisher: HarperCollins UK 
+Pages: 0 
+ISBN10: 0001046403 
+ISBN13: 9780001046405 
+URL: http://www.openisbn.com/isbn/9780001046405/ 
+List Price: 18.00 
+Price comparison: 
+URL: http://www.openisbn.com/price/9780001046405/ 
+----------------------------------------------------------------------------------- 
+http://www.openisbn.com

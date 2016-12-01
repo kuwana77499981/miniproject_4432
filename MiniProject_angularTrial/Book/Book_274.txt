@@ -1,0 +1,15 @@
+Project OpenISBN 
+----------------------------------------------------------------------------------- 
+Title: Tomcat in Love. 
+Cover:  http://www.openisbn.com/cover/000225820X_72.jpg 
+Author: O'Brien Tim., 
+Publisher: Broadway Books (1998). 
+Pages: 352 
+ISBN10: 000225820X 
+ISBN13: 9780002258203 
+URL: http://www.openisbn.com/isbn/9780002258203/ 
+List Price: 0.00 
+Price comparison: 
+URL: http://www.openisbn.com/price/9780002258203/ 
+----------------------------------------------------------------------------------- 
+http://www.openisbn.com

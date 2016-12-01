@@ -1,0 +1,15 @@
+Project OpenISBN 
+----------------------------------------------------------------------------------- 
+Title: Noddy Christmas Storybook 
+Cover:  http://www.openisbn.com/cover/0001982613_72.jpg 
+Author: Enid Blyton, 
+Publisher: Picture Lions 
+Pages: 64 
+ISBN10: 0001982613 
+ISBN13: 9780001982611 
+URL: http://www.openisbn.com/isbn/9780001982611/ 
+List Price: 0.00 
+Price comparison: 
+URL: http://www.openisbn.com/price/9780001982611/ 
+----------------------------------------------------------------------------------- 
+http://www.openisbn.com
